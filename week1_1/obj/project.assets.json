@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Peak\\OneDrive\\เดสก์ท็อป\\GDM222\\week1\\week1_1\\week1.csproj",
-      "projectName": "week1",
-      "projectPath": "C:\\Users\\Peak\\OneDrive\\เดสก์ท็อป\\GDM222\\week1\\week1_1\\week1.csproj",
+      "projectUniqueName": "C:\\Users\\Peak\\OneDrive\\เดสก์ท็อป\\GDM222\\week1\\week1_1\\week1_1.csproj",
+      "projectName": "week1_1",
+      "projectPath": "C:\\Users\\Peak\\OneDrive\\เดสก์ท็อป\\GDM222\\week1\\week1_1\\week1_1.csproj",
       "packagesPath": "C:\\Users\\Peak\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Peak\\OneDrive\\เดสก์ท็อป\\GDM222\\week1\\week1_1\\obj\\",
       "projectStyle": "PackageReference",

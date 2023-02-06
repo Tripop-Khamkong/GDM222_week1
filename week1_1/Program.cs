@@ -6,20 +6,11 @@
     }
     public static double loop(double x){
         
-            if( x > -1 && x <= 0 ) {
-                x = Math.Sqrt(1-Math.Pow(x,2));
-                return x ;
+            if(Math.Pow(x,2) <= 4 ) {
+                return x = 2;
             }
-            else if( x > 0 && x <= 1 ) {
-                x= Math.Sqrt(1-Math.Pow(x,2));
-                return -1*x ;
-            }
-            else if( x <= -1) {
-               x = loop(x + 2);
-               return x ;
-            }
-            else if( x > -1) {
-               x = loop(x - 2);
+            else if(Math.Pow(x,2) > 4) {
+               x = 1+loop(x-(4*Math.Abs(x))/x);
                return x ;
             }
             else {
