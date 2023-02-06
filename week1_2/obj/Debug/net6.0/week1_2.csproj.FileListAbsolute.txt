@@ -1,0 +1,15 @@
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\week1\week1_2\bin\Debug\net6.0\week1_2.exe
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\week1\week1_2\bin\Debug\net6.0\week1_2.deps.json
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\week1\week1_2\bin\Debug\net6.0\week1_2.runtimeconfig.json
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\week1\week1_2\bin\Debug\net6.0\week1_2.dll
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\week1\week1_2\bin\Debug\net6.0\week1_2.pdb
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\week1\week1_2\obj\Debug\net6.0\week1_2.csproj.AssemblyReference.cache
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\week1\week1_2\obj\Debug\net6.0\week1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\week1\week1_2\obj\Debug\net6.0\week1_2.AssemblyInfoInputs.cache
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\week1\week1_2\obj\Debug\net6.0\week1_2.AssemblyInfo.cs
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\week1\week1_2\obj\Debug\net6.0\week1_2.csproj.CoreCompileInputs.cache
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\week1\week1_2\obj\Debug\net6.0\week1_2.dll
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\week1\week1_2\obj\Debug\net6.0\refint\week1_2.dll
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\week1\week1_2\obj\Debug\net6.0\week1_2.pdb
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\week1\week1_2\obj\Debug\net6.0\week1_2.genruntimeconfig.cache
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\week1\week1_2\obj\Debug\net6.0\ref\week1_2.dll
